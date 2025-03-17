@@ -1,15 +1,15 @@
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=800&pause=1000&size=33&color=042D5E&width=370&height=100&lines=Hi+%2C+I'm+Shrouk+%F0%9F%91%8B" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=800&pause=1000&size=33&color=042D5E&width=500&height=100&lines=Hi+%2C+I'm+Shrouk+%F0%9F%91%8B;Backend+Engineer+%7C+Problem+Solver+%F0%9F%92%BB;Building+scalable+and+efficient+systems+%F0%9F%9A%80" alt="Typing SVG" />
+  </a>
 </p>
-<p align="left"> 
-<img src="https://komarev.com/ghpvc/?username=Mahdiiye&color=brightgreen" alt="watching_count" />
- </p>
+
 	
 ## <picture><img src = "https://user-images.githubusercontent.com/64439609/213525571-a0b12213-7e89-48df-a45f-153c78f3cf5e.png" width =40px></picture> **About me**
 
 <picture> <img align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" width = 400px></picture>
-#### I'm a Backend Engineer who loves solving complex problems and building scalable systems.
+
 
 - 🔭 I’m currently working on my side projects
 - 🌱 I’m currently learning software architecture
