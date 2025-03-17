@@ -70,28 +70,14 @@
 
 <h3 align="center" >Connect with me 🤝 </h3>
 
-<p align="center">
+<div align="center">
 
- <div align="center"  class="icons-social" style="margin-left: 10px;">
-        <a   target="_blank" href="https://www.linkedin.com/in/shrouk18ouda">
-			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" style="margin-left: 10px;" ></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://github.com/ShroukOuda">
-		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-           <a style="margin-left: 10px;" target="_blank" href="https://x.com/shroukouda2">
-		<img src="https://img.icons8.com/doodle/2x/gmail-new.png" style=" width:35px; height:43px;"></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://leetcode.com/u/Shrouk_Ouda/">
-				<img src="<a href="https://iconscout.com/icons/leetcode" class="text-underline font-size-sm" target="_blank">Leetcode</a> by <a href="https://iconscout.com/contributors/icon-54" class="text-underline font-size-sm">Icon 54</a> on <a href="https://iconscout.com" class="text-underline font-size-sm">IconScout</a>"></a>
-		<a style="margin-left: 5px;" target="_blank" href="https://codeforces.com/profile/Shrouk_Ouda">
-					<img src="<a href="https://iconscout.com/icons/code-forces" class="text-underline font-size-sm" target="_blank">Code Forces</a> by <a href="https://iconscout.com/contributors/icon-54" class="text-underline font-size-sm">Icon 54</a> on <a href="https://iconscout.com" class="text-underline font-size-sm">IconScout</a>"></a>
-      </div>
-
-</p>
-
-
-	
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shrouk18ouda/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShroukOuda)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/shroukouda2)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Shrouk_Ouda/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Shrouk_Ouda)
 </div>
-
 
 ------
 [Shrouk](https://github.com/ShroukOuda)
