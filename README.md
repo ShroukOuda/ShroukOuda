@@ -17,7 +17,6 @@
 - 💬 Ask me about C#
 - 📫 How to reach me: Contact part
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I never thought I would become a .net programmer!
 
 <br>
 
