@@ -22,7 +22,6 @@
 - 📚 Constantly exploring new technologies and improving my craft
 - 🎯 Goal: Become a skilled **backend engineer** with strong fundamentals
 - 😄 Pronouns: **She/Her**
-- ⚡ Fun fact: I love problem-solving, competitive programming, and learning from the community
 
 <br><br>
 
