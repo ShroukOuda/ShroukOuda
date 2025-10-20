@@ -75,6 +75,7 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="50" alt="Visual Studio" title="Visual Studio"/> 
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="VS Code" title="VS Code"/> 
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rider/rider-original.svg" height="50" alt="Rider" title="Rider"/> 
+        <img src="https://cdn.simpleicons.org/postman/FF6C37" alt="Postman" width="50" height="50" alt="Postman" title="Postman"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" alt="Docker" title="Docker"/>
       </p>
     </td>
