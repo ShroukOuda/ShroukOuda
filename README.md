@@ -111,15 +111,28 @@
 
 ## <img src="https://media.giphy.com/media/LnQjpWaHyWmVeJYaN0/giphy.gif" width="35"><b> Let's Connect!</b>
 
-<div align="center">
+<p align="center">
+  <a href="https://www.linkedin.com/in/shrouk18ouda/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/ShroukOuda" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://x.com/shroukouda2" target="_blank">
+    <img src="https://cdn.simpleicons.org/x/1DA1F2" width="40" height="40" alt="Twitter (X)" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://leetcode.com/u/Shrouk_Ouda/" target="_blank">
+    <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="40" height="40" alt="LeetCode" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://codeforces.com/profile/Shrouk_Ouda" target="_blank">
+    <img src="https://cdn.simpleicons.org/codeforces/1F8ACB" width="40" height="40" alt="Codeforces" />
+  </a>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shrouk18ouda/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShroukOuda)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/shroukouda2)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Shrouk_Ouda/)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Shrouk_Ouda)
-
-</div>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/64439609/213525571-a0b12213-7e89-48df-a45f-153c78f3cf5e.png" width="25px"> 
