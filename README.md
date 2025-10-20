@@ -109,68 +109,37 @@
 
 ---
 
-<img src="https://media.giphy.com/media/LnQjpWaHyWmVeJYaN0/giphy.gif" width="35"><b> Let's Connect!</b>
-<div align="center">
-<table>
-  <tr>
-    <td align="center" style="padding: 20px;">
-      <a href="https://www.linkedin.com/in/shrouk18ouda/" target="_blank" style="text-decoration: none;">
-        <div style="background: linear-gradient(135deg, #0077B5, #005580); padding: 15px 20px; border-radius: 10px; transition: all 0.3s ease;">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50" height="50" alt="LinkedIn"/>
-          <p style="color: white; margin: 10px 0 0 0; font-weight: bold;">LinkedIn</p>
-        </div>
-      </a>
-    </td>
-    <td align="center" style="padding: 20px;">
-      <a href="https://github.com/ShroukOuda" target="_blank" style="text-decoration: none;">
-        <div style="background: linear-gradient(135deg, #333333, #555555); padding: 15px 20px; border-radius: 10px; transition: all 0.3s ease;">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" alt="GitHub" style="filter: brightness(0) invert(1);"/>
-          <p style="color: white; margin: 10px 0 0 0; font-weight: bold;">GitHub</p>
-        </div>
-      </a>
-    </td>
-    <td align="center" style="padding: 20px;">
-      <a href="https://x.com/shroukouda2" target="_blank" style="text-decoration: none;">
-        <div style="background: linear-gradient(135deg, #1DA1F2, #1a7fb8); padding: 15px 20px; border-radius: 10px; transition: all 0.3s ease;">
-          <img src="https://cdn.simpleicons.org/x/ffffff" width="50" height="50" alt="Twitter (X)"/>
-          <p style="color: white; margin: 10px 0 0 0; font-weight: bold;">Twitter</p>
-        </div>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" style="padding: 20px;">
-      <a href="https://leetcode.com/u/Shrouk_Ouda/" target="_blank" style="text-decoration: none;">
-        <div style="background: linear-gradient(135deg, #FFA116, #ff8c00); padding: 15px 20px; border-radius: 10px; transition: all 0.3s ease;">
-          <img src="https://cdn.simpleicons.org/leetcode/ffffff" width="50" height="50" alt="LeetCode"/>
-          <p style="color: white; margin: 10px 0 0 0; font-weight: bold;">LeetCode</p>
-        </div>
-      </a>
-    </td>
-    <td align="center" style="padding: 20px;">
-      <a href="https://codeforces.com/profile/Shrouk_Ouda" target="_blank" style="text-decoration: none;">
-        <div style="background: linear-gradient(135deg, #1F8ACB, #154e7a); padding: 15px 20px; border-radius: 10px; transition: all 0.3s ease;">
-          <img src="https://cdn.simpleicons.org/codeforces/ffffff" width="50" height="50" alt="Codeforces"/>
-          <p style="color: white; margin: 10px 0 0 0; font-weight: bold;">Codeforces</p>
-        </div>
-      </a>
-    </td>
-    <td align="center" style="padding: 20px;">
-      <a href="mailto:shroukouda2@gmail.com" target="_blank" style="text-decoration: none;">
-        <div style="background: linear-gradient(135deg, #042D5E, #02386d); padding: 15px 20px; border-radius: 10px; transition: all 0.3s ease;">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="50" height="50" alt="Email"/>
-          <p style="color: white; margin: 10px 0 0 0; font-weight: bold;">Email</p>
-        </div>
-      </a>
-    </td>
-  </tr>
-</table>
-</div>
+<h3><img src="https://media.giphy.com/media/LnQjpWaHyWmVeJYaN0/giphy.gif" width="35"> Let's Connect!</h3>
+
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/64439609/213525571-a0b12213-7e89-48df-a45f-153c78f3cf5e.png" width="25px"> 
-  <b>Feel free to reach out and let's build something amazing together!</b>
+  <a href="https://www.linkedin.com/in/shrouk18ouda/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50" height="50" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/ShroukOuda" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" alt="GitHub"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://x.com/shroukouda2" target="_blank">
+    <img src="https://cdn.simpleicons.org/x/1DA1F2/white" width="50" height="50" alt="Twitter (X)"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://leetcode.com/u/Shrouk_Ouda/" target="_blank">
+    <img src="https://cdn.simpleicons.org/leetcode/F89F1B/white" width="50" height="50" alt="LeetCode"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://codeforces.com/profile/Shrouk_Ouda" target="_blank">
+    <img src="https://cdn.simpleicons.org/codeforces/1F8ACB/white" width="50" height="50" alt="Codeforces"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:shroukouda2@gmail.com" target="_blank">
+    <img src="https://cdn.simpleicons.org/gmail/EA4335/white" width="50" height="50" alt="Email"/>
+  </a>
 </p>
 
+<p align="center">
+  <b>🤝 Feel free to reach out — let's build something amazing together!</b>
+</p>
 
 
 ---
