@@ -14,13 +14,15 @@
 
 <picture> <img align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" width="350px"></picture>
 
-- 🔭 Currently building **scalable backend solutions**
-- 🌱 Mastering **software architecture & design patterns**
-- 👯 Open to collaborating on **open-source projects**
-- 💬 Ask me about **C#, ASP.NET, and backend optimization**
-- 📫 Reach out anytime - I'd love to connect!
+- 🎓 **Computer Science Student** | Learning & Growing Every Day
+- 🔭 Building projects to strengthen my **backend development skills**
+- 🌱 Currently learning **software architecture, design patterns & best practices**
+- 👯 Eager to collaborate on **open-source projects & learning opportunities**
+- 💬 Ask me about **C#, ASP.NET Core, and backend concepts**
+- 📚 Constantly exploring new technologies and improving my craft
+- 🎯 Goal: Become a skilled **backend engineer** with strong fundamentals
 - 😄 Pronouns: **She/Her**
-- ⚡ Fun fact: I love solving complex problems and mentoring junior developers
+- ⚡ Fun fact: I love problem-solving, competitive programming, and learning from the community
 
 <br><br>
 
