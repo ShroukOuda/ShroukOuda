@@ -172,10 +172,6 @@
 </p>
 
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/64439609/213525571-a0b12213-7e89-48df-a45f-153c78f3cf5e.png" width="25px"> 
-  <b>Feel free to reach out and let's build something amazing together!</b>
-</p>
 
 ---
 
