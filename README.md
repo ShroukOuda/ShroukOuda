@@ -109,38 +109,42 @@
 
 ---
 
-<h3><img src="https://media.giphy.com/media/LnQjpWaHyWmVeJYaN0/giphy.gif" width="35"> Let's Connect!</h3>
+<h2 align="center">
+  <img src="https://media.giphy.com/media/LnQjpWaHyWmVeJYaN0/giphy.gif" width="35">
+  <b> Let's Connect!</b>
+</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shrouk18ouda/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50" height="50" alt="LinkedIn"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50" height="50"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/ShroukOuda" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" alt="GitHub"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://x.com/shroukouda2" target="_blank">
-    <img src="https://cdn.simpleicons.org/x/1DA1F2/white" width="50" height="50" alt="Twitter (X)"/>
+    <img src="https://cdn.simpleicons.org/x/1DA1F2" alt="Twitter (X)" width="50" height="50"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://leetcode.com/u/Shrouk_Ouda/" target="_blank">
-    <img src="https://cdn.simpleicons.org/leetcode/F89F1B/white" width="50" height="50" alt="LeetCode"/>
+    <img src="https://cdn.simpleicons.org/leetcode/FFA116" alt="LeetCode" width="50" height="50"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://codeforces.com/profile/Shrouk_Ouda" target="_blank">
-    <img src="https://cdn.simpleicons.org/codeforces/1F8ACB/white" width="50" height="50" alt="Codeforces"/>
+    <img src="https://cdn.simpleicons.org/codeforces/1F8ACB" alt="Codeforces" width="50" height="50"/>
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:shroukouda2@gmail.com" target="_blank">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335/white" width="50" height="50" alt="Email"/>
+  <a href="mailto:shroukouda2@gmail.com">
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Email" width="50" height="50"/>
   </a>
 </p>
 
-<p align="center">
-  <b>🤝 Feel free to reach out — let's build something amazing together!</b>
-</p>
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/64439609/213525571-a0b12213-7e89-48df-a45f-153c78f3cf5e.png" width="25px"> 
+  <b>Feel free to reach out and let's build something amazing together!</b>
+</p>
 
 ---
 
