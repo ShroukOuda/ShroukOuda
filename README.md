@@ -80,7 +80,5 @@
 
 ------
 [Shrouk](https://github.com/ShroukOuda)
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ShroukOuda&color=ff69b4&style=for-the-badge" alt="Profile views"/>
-</p>
+
 
